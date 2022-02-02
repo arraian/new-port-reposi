@@ -80,6 +80,7 @@ a:hover{
     background-image: url("shape-3.png");
     background-repeat: no-repeat;
     background-position: right;
+    padding-left: 10%;
 }
 .fle-con{
     margin-left: 80px;
